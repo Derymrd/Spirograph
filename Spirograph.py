@@ -4,7 +4,7 @@ turtle.speed(0)
 turtle.bgcolor("black")
 
 
-for i in range(100,200):
+for i in range(200):
     for colors in ["red","green","blue","yellow","white"]:
         turtle.color(colors)
         turtle.width(i/100+1)
